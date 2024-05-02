@@ -1,4 +1,4 @@
-![SKS-5-2-2024 (1)](https://github.com/siks1488/siks1488/assets/166322681/a0330554-8e26-444c-8265-723602e1c218)
+![SKS-5-2-2024 (1)](https://github.com/siks1488/siks1488/assets/166322681/66d582ea-4f37-4f64-a847-89c232dc23cf)
 
 
 I started learning javascript html css since April 14, 2024
