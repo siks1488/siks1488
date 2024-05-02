@@ -1,4 +1,4 @@
-![SKS-5-2-2024 (1)](https://github.com/siks1488/siks1488/assets/166322681/66d582ea-4f37-4f64-a847-89c232dc23cf)
+![resize_image](https://github.com/siks1488/siks1488/assets/166322681/2bb2c144-5942-49ca-9662-2ceae433baeb)
 
 
 I started learning javascript html css since April 14, 2024
