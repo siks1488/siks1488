@@ -1,2 +1,2 @@
 I started learning python
-https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp
+![python-removebg-preview](https://github.com/user-attachments/assets/bf05baac-9be4-4c83-af7f-e41e2ace76f0)
