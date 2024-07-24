@@ -1,2 +1,2 @@
 I started learning python
-![Python-logo-notext svg](https://github.com/user-attachments/assets/a0d93df9-5c72-42f7-b9ef-af765007d53b)
+https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp
