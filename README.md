@@ -1,7 +1,7 @@
 I started learning C<br>
 #include <stdio.h>
 
-int main(){
-    printf("Hello world\n");   
+int main(){<br>
+    printf("Hello world\n");<br>
     return 0;<br>
 }
