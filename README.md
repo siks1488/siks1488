@@ -1,2 +1,2 @@
-I started learning python<br>
+I started learning C<br>
 print("Hello, World!")
