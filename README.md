@@ -1,7 +1,7 @@
-I started learning C<br><br>
-#include <stdio.h>
+I started learning C++<br><br>
+#include <iostream>
 
 int main(){<br>
-    printf("Hello world\n");<br>
+    std::cout << "Hello world"<br>
     return 0;<br>
 }
